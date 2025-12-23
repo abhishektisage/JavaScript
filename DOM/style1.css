@@ -1,0 +1,13 @@
+/* Button styling */
+.btnStyle {
+    background-color: blue;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Heading styling */
+.heading {
+    color: purple;
+}
